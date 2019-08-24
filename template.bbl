@@ -1,0 +1,76 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{cms/global//global/global}
+    \entry{paiva_sonic_2018}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=90e15295da775333032d520adc7610ad}{%
+           family={Paiva},
+           familyi={P\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{90e15295da775333032d520adc7610ad}
+      \strng{fullhash}{90e15295da775333032d520adc7610ad}
+      \strng{bibnamehash}{90e15295da775333032d520adc7610ad}
+      \strng{authorbibnamehash}{90e15295da775333032d520adc7610ad}
+      \strng{authornamehash}{90e15295da775333032d520adc7610ad}
+      \strng{authorfullhash}{90e15295da775333032d520adc7610ad}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This article poses a straightforward question: What has geography been listening to? Sonic geographies have been established as a relevant subfield in Human Geography in the last decades. During this period, a significant amount of work has been published, but there are still few reviews of these works, and most of them focus solely on Anglophone geography. In this article, I attempt to address this gap by providing an overview of the themes and concepts that have been studied within the emerging subfield of sonic geographies. My intention is to reunite a large range of works that are becoming increasingly scattered and specialized, in order to make sense of the subfield as a whole. With this in mind, I am particularly interested in identifying the “deaf spots” of the subfield, that is, the subjects, concepts, or fields that have not yet been explored thoroughly by sonic geographies.}
+      \field{issn}{1749-8198}
+      \field{journaltitle}{Geography Compass}
+      \field{langid}{english}
+      \field{number}{7}
+      \field{shorttitle}{Sonic geographies}
+      \field{title}{Sonic geographies: Themes, concepts, and deaf spots}
+      \field{urlday}{7}
+      \field{urlmonth}{5}
+      \field{urlyear}{2019}
+      \field{volume}{12}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{e12375}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1111/gec3.12375
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/Users/harrisonmontgomery/Zotero/storage/XBNW4UY6/Paiva - 2018 - Sonic geographies Themes, concepts, and deaf spot.pdf:application/pdf;Snapshot:/Users/harrisonmontgomery/Zotero/storage/MMW5SECV/gec3.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://onlinelibrary.wiley.com/doi/abs/10.1111/gec3.12375
+      \endverb
+      \verb{url}
+      \verb http://onlinelibrary.wiley.com/doi/abs/10.1111/gec3.12375
+      \endverb
+      \keyw{listening,noise,politics,sonic geography,sound and art,sound as affect,soundscape}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

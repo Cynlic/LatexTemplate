@@ -1,0 +1,35 @@
+\documentclass[12pt]{article}
+\usepackage{fontspec}
+\setmainfont[
+	Ligatures=TeX
+]{WilliamsCaslonText}
+\usepackage[margin=1truein]{geometry}
+\setsansfont[Ligatures=TeX]{Menlo}
+\usepackage{fancyhdr}
+\usepackage{amsmath,amsthm, amssymb}
+\usepackage{microtype}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{lipsum}
+\usepackage{termcal}
+\usepackage{xcolor}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage[authordate,backend=biber]{biblatex-chicago}
+
+\addbibresource{ExportedItems.bib}
+\title{LaTeX Template Document}
+\author{Harrison Montgomery}
+\date{\today}
+
+\newcommand {\sctitle}[1]{
+	\textsc{#1}
+		}
+
+\begin{document}
+\maketitle
+\section{Document Template}
+This is a document template! \parencite{paiva_sonic_2018}
+
+\printbibliography
+\end{document}
