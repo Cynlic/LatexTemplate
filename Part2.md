@@ -1,0 +1,9 @@
+
+# The Sensorial Turn and the Crisis of Methodology 
+
+Unsurprisingly, the question of artistic practice and the process of anthropological research has haunted more than just ethnomusicologists and ethnographers working with the written word. 
+Indeed, according to Karen Nakamura, the so-called "crisis of representation" inaugurated by the Writing Culture debates had been traversed almost twenty years earlier among visual anthropologists, with no small degree of anxiety [-@nakamura_making_2013: 133].
+In deliniating the various methods of what has been called *sensory ethnography* among socio-cultural and visual anthropologists, Nakamura establishes two forms, both of which confront the question of experience in producing ethnographic work: the *aesthetic-sensual*, which traces its roots to observational cinema, and the *multisensory experimental*, which attempts to center the senses in writing and theoretical orientation [-@nakamura_making_2013: 133-135]. 
+Of the two perspectives, the aesthetic-sensual is the most clearly analogous to Slawek's notion of research-based performance as a kind of "experimental translation of a cultural experience," and provides the strongest case for the utility of experiential research forms [-@slawek_study_1994: 22]. 
+
+Nakamura's description of the aesthetic-sensual style of sensory ethnography traces a genealogical path through the history of visual anthropology, begining with the foundation of the Harvard Film Studies Center by Robert Gardner. Gardner's first ethnographic films (Nakamura cites *Dead Birds* as an example) followed standard anthropological and documentarian tradition, utilizing voice-over narration, staged narrative, and other stylistic features facing harsh critique by the observational cinema and *cinema-verite* movements.  

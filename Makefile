@@ -1,6 +1,9 @@
-paper.pdf: Part1.md
-	pandoc --filter pandoc-citeproc Part1.md -o Part1.tex
+paper.pdf: temp.md
+	pandoc --filter pandoc-citeproc temp.md -o collected.tex
 	xelatex template.tex
 	biber template
+	rm temp.md
 	xelatex template.tex -o paper.pdf
 
+temp.md: Part1.md Part2.md
+	cat Part1.md Part2.md > temp.md
