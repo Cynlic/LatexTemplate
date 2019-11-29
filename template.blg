@@ -1,16 +1,9 @@
 [0] Config.pm:302> INFO - This is Biber 2.11
-[1] Config.pm:305> INFO - Logfile is 'template.blg'
-[48] biber-darwin:313> INFO - === Sun Aug 25, 2019, 19:12:01
+[0] Config.pm:305> INFO - Logfile is 'template.blg'
+[45] biber-darwin:313> INFO - === Fri Nov 29, 2019, 12:57:26
 [82] Biber.pm:371> INFO - Reading 'template.bcf'
-[222] Biber.pm:857> INFO - Found 1 citekeys in bib section 0
-[236] Biber.pm:3976> INFO - Processing section 0
-[248] Biber.pm:4136> INFO - Looking for bibtex format file 'ExportedItems.bib' for section 0
-[252] bibtex.pm:1500> INFO - LaTeX decoding ...
-[325] bibtex.pm:1316> INFO - Found BibTeX data source 'ExportedItems.bib'
-[364] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'level = 4' with 'level = 2'
-[365] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[365] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[365] Biber.pm:3804> INFO - Sorting list 'cms/global//global/global' of type 'entry' with template 'cms' and locale 'en-US'
-[365] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
-[367] bbl.pm:617> INFO - Writing 'template.bbl' with encoding 'UTF-8'
-[369] bbl.pm:720> INFO - Output to template.bbl
+[223] Biber.pm:857> INFO - Found 0 citekeys in bib section 0
+[230] Utils.pm:193> WARN - The file 'template.bcf' does not contain any citations!
+[239] bbl.pm:617> INFO - Writing 'template.bbl' with encoding 'UTF-8'
+[239] bbl.pm:720> INFO - Output to template.bbl
+[240] Biber.pm:110> INFO - WARNINGS: 1

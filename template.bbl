@@ -16,42 +16,5 @@
   {}
 \endgroup
 
-
-\refsection{0}
-  \datalist[entry]{cms/global//global/global}
-    \entry{de_beukelaer_developing_2015}{book}{}
-      \name{author}{1}{}{%
-        {{uniquename=0,uniquepart=base,hash=2a41cdff12983647719e5089cbdb90db}{%
-           family={De\bibnamedelima Beukelaer},
-           familyi={D\bibinitperiod\bibinitdelim B\bibinitperiod},
-           given={Christiaan},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Amsterdam}%
-      }
-      \list{publisher}{1}{%
-        {European Cultural Foundation}%
-      }
-      \strng{namehash}{2a41cdff12983647719e5089cbdb90db}
-      \strng{fullhash}{2a41cdff12983647719e5089cbdb90db}
-      \strng{bibnamehash}{2a41cdff12983647719e5089cbdb90db}
-      \strng{authorbibnamehash}{2a41cdff12983647719e5089cbdb90db}
-      \strng{authornamehash}{2a41cdff12983647719e5089cbdb90db}
-      \strng{authorfullhash}{2a41cdff12983647719e5089cbdb90db}
-      \field{sortinit}{D}
-      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{isbn}{978-90-6282-067-2}
-      \field{title}{Developing Cultural Industries. Learning from the Palimpsest of Practice}
-      \field{year}{2015}
-      \field{dateera}{ce}
-    \endentry
-  \enddatalist
-\endrefsection
 \endinput
 
