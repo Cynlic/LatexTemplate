@@ -1,18 +1,18 @@
 [0] Config.pm:302> INFO - This is Biber 2.11
-[1] Config.pm:305> INFO - Logfile is 'template.blg'
-[45] biber-darwin:313> INFO - === Fri Nov 29, 2019, 22:57:22
-[78] Biber.pm:371> INFO - Reading 'template.bcf'
-[229] Biber.pm:857> INFO - Found 18 citekeys in bib section 0
-[244] Biber.pm:3976> INFO - Processing section 0
-[257] Biber.pm:4136> INFO - Looking for bibtex format file 'ExportedItems.bib' for section 0
-[270] bibtex.pm:1500> INFO - LaTeX decoding ...
-[554] bibtex.pm:1316> INFO - Found BibTeX data source 'ExportedItems.bib'
-[653] Utils.pm:193> WARN - I didn't find a database entry for 'mugglstone_guido_1983' (section 0)
-[685] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[685] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'level = 4' with 'level = 2'
-[686] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[686] Biber.pm:3804> INFO - Sorting list 'cms/global//global/global' of type 'entry' with template 'cms' and locale 'en-US'
-[686] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
-[714] bbl.pm:617> INFO - Writing 'template.bbl' with encoding 'UTF-8'
-[725] bbl.pm:720> INFO - Output to template.bbl
-[725] Biber.pm:110> INFO - WARNINGS: 1
+[0] Config.pm:305> INFO - Logfile is 'template.blg'
+[51] biber-darwin:313> INFO - === Sat Nov 30, 2019, 11:27:32
+[84] Biber.pm:371> INFO - Reading 'template.bcf'
+[234] Biber.pm:857> INFO - Found 18 citekeys in bib section 0
+[250] Biber.pm:3976> INFO - Processing section 0
+[263] Biber.pm:4136> INFO - Looking for bibtex format file 'ExportedItems.bib' for section 0
+[281] bibtex.pm:1500> INFO - LaTeX decoding ...
+[564] bibtex.pm:1316> INFO - Found BibTeX data source 'ExportedItems.bib'
+[663] Utils.pm:193> WARN - I didn't find a database entry for 'mugglstone_guido_1983' (section 0)
+[701] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[701] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'level = 4' with 'level = 2'
+[701] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[701] Biber.pm:3804> INFO - Sorting list 'cms/global//global/global' of type 'entry' with template 'cms' and locale 'en-US'
+[701] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
+[727] bbl.pm:617> INFO - Writing 'template.bbl' with encoding 'UTF-8'
+[740] bbl.pm:720> INFO - Output to template.bbl
+[740] Biber.pm:110> INFO - WARNINGS: 1
