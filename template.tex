@@ -16,22 +16,24 @@
 \usepackage{enumitem}
 \usepackage{hyperref}
 \usepackage[authordate,backend=biber]{biblatex-chicago}
+\usepackage{setspace}
+\usepackage{etoolbox}
+
+\AtBeginEnvironment{quote}{\singlespacing}
 
 \addbibresource{ExportedItems.bib}
 \title{Revisting Sensory Methods}
 \author{Harrison Montgomery}
 \date{\today}
 
-\newenvironment{cslreferences}{
-\section{References}
-}
-
 \newcommand {\sctitle}[1]{
 	\textsc{#1}
 		}
 
 \begin{document}
+
 \maketitle
+\doublespacing
 \include{collected}
 
 \printbibliography

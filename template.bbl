@@ -16,5 +16,708 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{cms/global//global/global}
+    \entry{chapman_research-creation:_2012}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=39b5dce499bad9f420f2a9e40fdd6f0b}{%
+           family={Chapman},
+           familyi={C\bibinitperiod},
+           given={Owen\bibnamedelima B.},
+           giveni={O\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=74f5b2f4be1e2e0df5a051e9e759ef4e}{%
+           family={Sawchuk},
+           familyi={S\bibinitperiod},
+           given={Kim},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{87a19ae91fb8a43b0801949b6ded3a8f}
+      \strng{fullhash}{87a19ae91fb8a43b0801949b6ded3a8f}
+      \strng{bibnamehash}{87a19ae91fb8a43b0801949b6ded3a8f}
+      \strng{authorbibnamehash}{87a19ae91fb8a43b0801949b6ded3a8f}
+      \strng{authornamehash}{87a19ae91fb8a43b0801949b6ded3a8f}
+      \strng{authorfullhash}{87a19ae91fb8a43b0801949b6ded3a8f}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Canadian Journal of Communication}
+      \field{number}{1}
+      \field{title}{Research-Creation: Intervention, Analysis and "Family Resemblances}
+      \field{volume}{37}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{pages}{5\bibrangedash 26}
+      \range{pages}{22}
+      \verb{doi}
+      \verb https://doi.org/10.22230/cjc.2012v37n1a2489
+      \endverb
+    \endentry
+    \entry{clifford_introduction:_1986}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=4e67ea8fd70a83e2b3668aec2682f39b}{%
+           family={Clifford},
+           familyi={C\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=3ee3cb18fc44dc677983ff5aa2a7f9a5}{%
+           family={Marcus},
+           familyi={M\bibinitperiod},
+           given={George\bibnamedelima E.},
+           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=4e67ea8fd70a83e2b3668aec2682f39b}{%
+           family={Clifford},
+           familyi={C\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berkeley}%
+      }
+      \list{publisher}{1}{%
+        {University of California Press}%
+      }
+      \strng{namehash}{4e67ea8fd70a83e2b3668aec2682f39b}
+      \strng{fullhash}{4e67ea8fd70a83e2b3668aec2682f39b}
+      \strng{bibnamehash}{4e67ea8fd70a83e2b3668aec2682f39b}
+      \strng{authorbibnamehash}{4e67ea8fd70a83e2b3668aec2682f39b}
+      \strng{authornamehash}{4e67ea8fd70a83e2b3668aec2682f39b}
+      \strng{authorfullhash}{4e67ea8fd70a83e2b3668aec2682f39b}
+      \strng{editorbibnamehash}{791a4eedabb41b4cae60a833e1815d6b}
+      \strng{editornamehash}{791a4eedabb41b4cae60a833e1815d6b}
+      \strng{editorfullhash}{791a4eedabb41b4cae60a833e1815d6b}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Writing Culture: the Poetics and Politics of Ethnography}
+      \field{langid}{english}
+      \field{series}{School of American Research Advanced Seminar}
+      \field{title}{Introduction: Partial Truths}
+      \field{year}{1986}
+      \field{dateera}{ce}
+      \field{pages}{1\bibrangedash 26}
+      \range{pages}{26}
+    \endentry
+    \entry{geertz_thick_1973}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=072150479fab32190a2b8ca90cf42d50}{%
+           family={Geertz},
+           familyi={G\bibinitperiod},
+           given={Clifford},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Basic Books}%
+      }
+      \strng{namehash}{072150479fab32190a2b8ca90cf42d50}
+      \strng{fullhash}{072150479fab32190a2b8ca90cf42d50}
+      \strng{bibnamehash}{072150479fab32190a2b8ca90cf42d50}
+      \strng{authorbibnamehash}{072150479fab32190a2b8ca90cf42d50}
+      \strng{authornamehash}{072150479fab32190a2b8ca90cf42d50}
+      \strng{authorfullhash}{072150479fab32190a2b8ca90cf42d50}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Interpretation of Cultures: Selected Essays}
+      \field{langid}{english}
+      \field{title}{Thick Description: Toward an Interpretive Theory of Culture}
+      \field{year}{1973}
+      \field{dateera}{ce}
+      \field{pages}{3\bibrangedash 32}
+      \range{pages}{30}
+    \endentry
+    \entry{haraway_situated_1988}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=9b5b7a98799e312407be2f2dea14b8f0}{%
+           family={Haraway},
+           familyi={H\bibinitperiod},
+           given={Donna},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9b5b7a98799e312407be2f2dea14b8f0}
+      \strng{fullhash}{9b5b7a98799e312407be2f2dea14b8f0}
+      \strng{bibnamehash}{9b5b7a98799e312407be2f2dea14b8f0}
+      \strng{authorbibnamehash}{9b5b7a98799e312407be2f2dea14b8f0}
+      \strng{authornamehash}{9b5b7a98799e312407be2f2dea14b8f0}
+      \strng{authorfullhash}{9b5b7a98799e312407be2f2dea14b8f0}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Feminist Studies}
+      \field{number}{3}
+      \field{title}{Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective}
+      \field{volume}{14}
+      \field{year}{1988}
+      \field{dateera}{ce}
+      \field{pages}{575\bibrangedash 599}
+      \range{pages}{25}
+      \verb{file}
+      \verb Haraway - 1988 - Situated Knowledges The Science Question in Femin.pdf:/Users/harrisonmontgomery/Zotero/storage/57EJNWZL/Haraway - 1988 - Situated Knowledges The Science Question in Femin.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{hood_challenge_1960}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=0131d3f754596021fbacd3dad625160a}{%
+           family={Hood},
+           familyi={H\bibinitperiod},
+           given={Mantle},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0131d3f754596021fbacd3dad625160a}
+      \strng{fullhash}{0131d3f754596021fbacd3dad625160a}
+      \strng{bibnamehash}{0131d3f754596021fbacd3dad625160a}
+      \strng{authorbibnamehash}{0131d3f754596021fbacd3dad625160a}
+      \strng{authornamehash}{0131d3f754596021fbacd3dad625160a}
+      \strng{authorfullhash}{0131d3f754596021fbacd3dad625160a}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00141836}
+      \field{journaltitle}{Ethnomusicology}
+      \field{number}{2}
+      \field{title}{The Challenge of "Bi-Musicality"}
+      \field{volume}{4}
+      \field{year}{1960}
+      \field{dateera}{ce}
+      \field{pages}{55\bibrangedash 59}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.2307/924263
+      \endverb
+      \verb{file}
+      \verb Hood - 1960 - The Challenge of Bi-Musicality.pdf:/Users/harrisonmontgomery/Zotero/storage/2XJH6ZKD/Hood - 1960 - The Challenge of Bi-Musicality.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb www.jstor.org/stable/924263
+      \endverb
+      \verb{url}
+      \verb www.jstor.org/stable/924263
+      \endverb
+    \endentry
+    \entry{ingold_description_2013}{incollection}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=d1e3c7c06b9d3db26f339a94f09e8ece}{%
+           family={Ingold},
+           familyi={I\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3fd5a99e5865bf3d87536defd775854e}{%
+           family={Gatt},
+           familyi={G\bibinitperiod},
+           given={Caroline},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=8fa1ef25c9750803b6543eaf5fda00c5}{%
+           family={Gunn},
+           familyi={G\bibinitperiod},
+           given={Wendy},
+           giveni={W\bibinitperiod}}}%
+        {{hash=bd01eb791f419edada6efe0306c0ba6a}{%
+           family={Otto},
+           familyi={O\bibinitperiod},
+           given={Ton},
+           giveni={T\bibinitperiod}}}%
+        {{hash=53a2e989c8d304eb474c098748d88659}{%
+           family={Charlotte-Smith},
+           familyi={C\bibinithyphendelim S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Bloomsbury}%
+      }
+      \strng{namehash}{9be7d9cf8e522617d3eb59665ec2a83c}
+      \strng{fullhash}{9be7d9cf8e522617d3eb59665ec2a83c}
+      \strng{bibnamehash}{9be7d9cf8e522617d3eb59665ec2a83c}
+      \strng{authorbibnamehash}{9be7d9cf8e522617d3eb59665ec2a83c}
+      \strng{authornamehash}{9be7d9cf8e522617d3eb59665ec2a83c}
+      \strng{authorfullhash}{9be7d9cf8e522617d3eb59665ec2a83c}
+      \strng{editorbibnamehash}{e7924936cc8320f0912c315c76c8c98c}
+      \strng{editornamehash}{e7924936cc8320f0912c315c76c8c98c}
+      \strng{editorfullhash}{e7924936cc8320f0912c315c76c8c98c}
+      \field{sortinit}{I}
+      \field{sortinithash}{320bc8fe8101b9376f9f21cd507de0e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Wendy Gunn, Ton Otto, Rachel Charlotte-Smith}
+      \field{booktitle}{Design Anthropology: Theory and Practice}
+      \field{title}{From Description to Correspondence: Anthropology in Real Time}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{pages}{139\bibrangedash 158}
+      \range{pages}{20}
+      \verb{file}
+      \verb Ingold and Gatt - 2013 - From Description to Correspondance Anthropology i.pdf:/Users/harrisonmontgomery/Zotero/storage/4I3XKJR4/Ingold and Gatt - 2013 - From Description to Correspondance Anthropology i.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{merriam_anthropology_1964}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=2575f3c32b598ceb6e5429db49383acc}{%
+           family={Merriam},
+           familyi={M\bibinitperiod},
+           given={Alan},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Evanston, {IL}}%
+      }
+      \list{publisher}{1}{%
+        {Northwestern University Press}%
+      }
+      \strng{namehash}{2575f3c32b598ceb6e5429db49383acc}
+      \strng{fullhash}{2575f3c32b598ceb6e5429db49383acc}
+      \strng{bibnamehash}{2575f3c32b598ceb6e5429db49383acc}
+      \strng{authorbibnamehash}{2575f3c32b598ceb6e5429db49383acc}
+      \strng{authornamehash}{2575f3c32b598ceb6e5429db49383acc}
+      \strng{authorfullhash}{2575f3c32b598ceb6e5429db49383acc}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Anthropology of Music}
+      \field{year}{1964}
+      \field{dateera}{ce}
+    \endentry
+    \entry{mugglestone_guido_1983}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=cb1fb2193caaaad7697b1396fb95dc56}{%
+           family={Mugglestone},
+           familyi={M\bibinitperiod},
+           given={Erica},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cb1fb2193caaaad7697b1396fb95dc56}
+      \strng{fullhash}{cb1fb2193caaaad7697b1396fb95dc56}
+      \strng{bibnamehash}{cb1fb2193caaaad7697b1396fb95dc56}
+      \strng{authorbibnamehash}{cb1fb2193caaaad7697b1396fb95dc56}
+      \strng{authornamehash}{cb1fb2193caaaad7697b1396fb95dc56}
+      \strng{authorfullhash}{cb1fb2193caaaad7697b1396fb95dc56}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Yearbook for Traditional Music}
+      \field{title}{Guido Adler’s ‘The Scope, Method, and Aim of Musicology’ (1885): An English Translation with an Historico-Analytical Commentary.}
+      \field{volume}{13}
+      \field{year}{1983}
+      \field{dateera}{ce}
+      \field{pages}{2\bibrangedash 21}
+      \range{pages}{20}
+    \endentry
+    \entry{nakamura_making_2013}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=340795820733eb2f41889bf68442dc99}{%
+           family={Nakamura},
+           familyi={N\bibinitperiod},
+           given={Karen},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{340795820733eb2f41889bf68442dc99}
+      \strng{fullhash}{340795820733eb2f41889bf68442dc99}
+      \strng{bibnamehash}{340795820733eb2f41889bf68442dc99}
+      \strng{authorbibnamehash}{340795820733eb2f41889bf68442dc99}
+      \strng{authornamehash}{340795820733eb2f41889bf68442dc99}
+      \strng{authorfullhash}{340795820733eb2f41889bf68442dc99}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Anthropologist}
+      \field{number}{1}
+      \field{title}{Making Sense of Sensory Ethnography: The Sensual and the Multisensory}
+      \field{volume}{115}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb Nakamura - 2013 - Making Sense of Sensory Ethnography The Sensual a.pdf:/Users/harrisonmontgomery/Zotero/storage/I9W34CFY/Nakamura - 2013 - Making Sense of Sensory Ethnography The Sensual a.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{nettl_what_1964}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=e29da410df925a745eaab4189fd2ee53}{%
+           family={Nettl},
+           familyi={N\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {{MacMillan} Company}%
+      }
+      \strng{namehash}{e29da410df925a745eaab4189fd2ee53}
+      \strng{fullhash}{e29da410df925a745eaab4189fd2ee53}
+      \strng{bibnamehash}{e29da410df925a745eaab4189fd2ee53}
+      \strng{authorbibnamehash}{e29da410df925a745eaab4189fd2ee53}
+      \strng{authornamehash}{e29da410df925a745eaab4189fd2ee53}
+      \strng{authorfullhash}{e29da410df925a745eaab4189fd2ee53}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Theory and Method in Ethnomusicology}
+      \field{langid}{english}
+      \field{title}{What is Ethnomusicology?}
+      \field{year}{1964}
+      \field{dateera}{ce}
+      \field{pages}{1\bibrangedash 26}
+      \range{pages}{26}
+    \endentry
+    \entry{pink_situating_2012}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=2b4f1e26834c84798dac76dec84d9fb7}{%
+           family={Pink},
+           familyi={P\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {{SAGE} Publications Ltd}%
+      }
+      \strng{namehash}{2b4f1e26834c84798dac76dec84d9fb7}
+      \strng{fullhash}{2b4f1e26834c84798dac76dec84d9fb7}
+      \strng{bibnamehash}{2b4f1e26834c84798dac76dec84d9fb7}
+      \strng{authorbibnamehash}{2b4f1e26834c84798dac76dec84d9fb7}
+      \strng{authornamehash}{2b4f1e26834c84798dac76dec84d9fb7}
+      \strng{authorfullhash}{2b4f1e26834c84798dac76dec84d9fb7}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Doing Sensory Ethnography}
+      \field{langid}{english}
+      \field{title}{Situating Sensory Ethnography: From Academia to Intervention}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{pages}{7\bibrangedash 22}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.4135/9781446249383
+      \endverb
+      \verb{file}
+      \verb Pink - 2019 - Situating Sensory Ethnography From Academia to In.pdf:/Users/harrisonmontgomery/Zotero/storage/VVZL2J9M/Pink - 2019 - Situating Sensory Ethnography From Academia to In.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://methods.sagepub.com/book/doing-sensory-ethnography
+      \endverb
+      \verb{url}
+      \verb https://methods.sagepub.com/book/doing-sensory-ethnography
+      \endverb
+    \endentry
+    \entry{rice_toward_2008}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=cef51f3d553f54b3559786b2b76b411d}{%
+           family={Rice},
+           familyi={R\bibinitperiod},
+           given={Timothy},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=6a76f64db9230966b79fde39eb510845}{%
+           family={Barz},
+           familyi={B\bibinitperiod},
+           given={Gregory},
+           giveni={G\bibinitperiod}}}%
+        {{hash=23745179d586c7872beb3f66f42393b0}{%
+           family={Cooley},
+           familyi={C\bibinitperiod},
+           given={Timothy\bibnamedelima J.},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{cef51f3d553f54b3559786b2b76b411d}
+      \strng{fullhash}{cef51f3d553f54b3559786b2b76b411d}
+      \strng{bibnamehash}{cef51f3d553f54b3559786b2b76b411d}
+      \strng{authorbibnamehash}{cef51f3d553f54b3559786b2b76b411d}
+      \strng{authornamehash}{cef51f3d553f54b3559786b2b76b411d}
+      \strng{authorfullhash}{cef51f3d553f54b3559786b2b76b411d}
+      \strng{editorbibnamehash}{3b30c6031e492e7212fdb0ae00216b06}
+      \strng{editornamehash}{3b30c6031e492e7212fdb0ae00216b06}
+      \strng{editorfullhash}{3b30c6031e492e7212fdb0ae00216b06}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Shadows in the Field: New Perspectives for Fieldwork in Ethnomusicology}
+      \field{edition}{Second}
+      \field{title}{Toward a Mediation of Field Methods and Field Experience in Ethnomusicology}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \field{pages}{42\bibrangedash 61}
+      \range{pages}{20}
+    \endentry
+    \entry{rouch_camera_2009}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=e4c30acafc84787af8a834303c30e093}{%
+           family={Rouch},
+           familyi={R\bibinitperiod},
+           given={Jean},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=c40f506383a4f35433a197baa177c0d2}{%
+           family={Hockings},
+           familyi={H\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {De Gruyter}%
+      }
+      \strng{namehash}{e4c30acafc84787af8a834303c30e093}
+      \strng{fullhash}{e4c30acafc84787af8a834303c30e093}
+      \strng{bibnamehash}{e4c30acafc84787af8a834303c30e093}
+      \strng{authorbibnamehash}{e4c30acafc84787af8a834303c30e093}
+      \strng{authornamehash}{e4c30acafc84787af8a834303c30e093}
+      \strng{authorfullhash}{e4c30acafc84787af8a834303c30e093}
+      \strng{editorbibnamehash}{c40f506383a4f35433a197baa177c0d2}
+      \strng{editornamehash}{c40f506383a4f35433a197baa177c0d2}
+      \strng{editorfullhash}{c40f506383a4f35433a197baa177c0d2}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Principles of Visual Anthropology}
+      \field{edition}{Third edition}
+      \field{title}{The Camera and Man}
+      \field{urlday}{29}
+      \field{urlmonth}{11}
+      \field{urlyear}{2019}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{77\bibrangedash 98}
+      \range{pages}{22}
+      \verb{urlraw}
+      \verb https://www.degruyter.com/view/books/9783110221138/9783110221138.77/9783110221138.77.xml
+      \endverb
+      \verb{url}
+      \verb https://www.degruyter.com/view/books/9783110221138/9783110221138.77/9783110221138.77.xml
+      \endverb
+    \endentry
+    \entry{slawek_study_1994}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=4296cde05515e913633b7b4e99dff33a}{%
+           family={Slawek},
+           familyi={S\bibinitperiod},
+           given={Stephen\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4296cde05515e913633b7b4e99dff33a}
+      \strng{fullhash}{4296cde05515e913633b7b4e99dff33a}
+      \strng{bibnamehash}{4296cde05515e913633b7b4e99dff33a}
+      \strng{authorbibnamehash}{4296cde05515e913633b7b4e99dff33a}
+      \strng{authornamehash}{4296cde05515e913633b7b4e99dff33a}
+      \strng{authorfullhash}{4296cde05515e913633b7b4e99dff33a}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{[Der Aufsatz ist eine Selbstreflexion des Autors über seine Erfahrungen bei der Verwendung des Studiums der Spielpraxis als einer Methode wissenschaftlicher Forschung in der Ethnomusikologie. Als Student der indischen Sitar verwendete der Verfasser die Spielpraxis als Fenster zu interkultureller Erfahrung auf musikalischem Gebiet. In der Ethnomusikologie setzt dieser Zugang zum Feldstudium — man nennt ihn Bi-Musikalität — den Erwerb musikalischer Fachkompetenz in einer Kultur voraus, die einem Individuum fremd ist, während dieses in seiner heimischen Kultur bereits musikalische Bildung besitzt Die intime Kenntnis eines musikalischen Systems und der sozialen Dynamik der Menschen, die jenes System aufrechterhalten, erworben durch das Studium der Spielpraxis und bekundet durch eigenes Spiel, vermittelt nicht nur die Fähigkeit, musikalische Strukturen zu identifizieren und zu erklären, sondern liefert auch eine Grundlage für die Entwicklung einer grundständigen Theorie im sozialwissenschaftlichen Sinne.]}
+      \field{issn}{09419535}
+      \field{journaltitle}{International Journal of Musicology}
+      \field{title}{The Study of Performance Practice as a Research Method: A South Asian Example}
+      \field{volume}{3}
+      \field{year}{1994}
+      \field{dateera}{ce}
+      \field{pages}{9\bibrangedash 22}
+      \range{pages}{14}
+      \verb{file}
+      \verb Slawek - 1994 - The Study of Performance Practice as a Research Me.pdf:/Users/harrisonmontgomery/Zotero/storage/8395ATNK/Slawek - 1994 - The Study of Performance Practice as a Research Me.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.jstor.org.ezproxy.lib.utexas.edu/stable/24618801
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org.ezproxy.lib.utexas.edu/stable/24618801
+      \endverb
+    \endentry
+    \entry{taylor_iconophobia:_1996}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=120ed59be3f3d483dbe9f4be0cd07183}{%
+           family={Taylor},
+           familyi={T\bibinitperiod},
+           given={Lucien},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{120ed59be3f3d483dbe9f4be0cd07183}
+      \strng{fullhash}{120ed59be3f3d483dbe9f4be0cd07183}
+      \strng{bibnamehash}{120ed59be3f3d483dbe9f4be0cd07183}
+      \strng{authorbibnamehash}{120ed59be3f3d483dbe9f4be0cd07183}
+      \strng{authornamehash}{120ed59be3f3d483dbe9f4be0cd07183}
+      \strng{authorfullhash}{120ed59be3f3d483dbe9f4be0cd07183}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Transition}
+      \field{langid}{english}
+      \field{title}{Iconophobia: How anthropology lost it at the movies}
+      \field{volume}{69}
+      \field{year}{1996}
+      \field{dateera}{ce}
+      \field{pages}{64\bibrangedash 88}
+      \range{pages}{25}
+      \verb{file}
+      \verb Taylor - 1996 - Iconophobia How anthropology lost it at the movie.pdf:/Users/harrisonmontgomery/Zotero/storage/QGRX3PLR/Taylor - 1996 - Iconophobia How anthropology lost it at the movie.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{titon_knowing_2008}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=216c7c7e32c2153b341f4a83d3ce2db8}{%
+           family={Titon},
+           familyi={T\bibinitperiod},
+           given={Jeff},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=6a76f64db9230966b79fde39eb510845}{%
+           family={Barz},
+           familyi={B\bibinitperiod},
+           given={Gregory},
+           giveni={G\bibinitperiod}}}%
+        {{hash=23745179d586c7872beb3f66f42393b0}{%
+           family={Cooley},
+           familyi={C\bibinitperiod},
+           given={Timothy\bibnamedelima J.},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{216c7c7e32c2153b341f4a83d3ce2db8}
+      \strng{fullhash}{216c7c7e32c2153b341f4a83d3ce2db8}
+      \strng{bibnamehash}{216c7c7e32c2153b341f4a83d3ce2db8}
+      \strng{authorbibnamehash}{216c7c7e32c2153b341f4a83d3ce2db8}
+      \strng{authornamehash}{216c7c7e32c2153b341f4a83d3ce2db8}
+      \strng{authorfullhash}{216c7c7e32c2153b341f4a83d3ce2db8}
+      \strng{editorbibnamehash}{3b30c6031e492e7212fdb0ae00216b06}
+      \strng{editornamehash}{3b30c6031e492e7212fdb0ae00216b06}
+      \strng{editorfullhash}{3b30c6031e492e7212fdb0ae00216b06}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Shadows in the Field: New Perspectives for Fieldwork in Ethnomusicology}
+      \field{edition}{Second}
+      \field{title}{Knowing Fieldwork}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \field{pages}{25\bibrangedash 41}
+      \range{pages}{17}
+    \endentry
+    \entry{zenker_writing_2014}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=71920769231e5e8972e3626b357f08b4}{%
+           family={Zenker},
+           familyi={Z\bibinitperiod},
+           given={Olaf},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{71920769231e5e8972e3626b357f08b4}
+      \strng{fullhash}{71920769231e5e8972e3626b357f08b4}
+      \strng{bibnamehash}{71920769231e5e8972e3626b357f08b4}
+      \strng{authorbibnamehash}{71920769231e5e8972e3626b357f08b4}
+      \strng{authornamehash}{71920769231e5e8972e3626b357f08b4}
+      \strng{authorfullhash}{71920769231e5e8972e3626b357f08b4}
+      \field{sortinit}{Z}
+      \field{sortinithash}{156173bd08b075d7295bc3e0f4735a04}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{???}
+      \field{journaltitle}{Oxford Bibliographies Online}
+      \field{title}{Writing Culture}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.oxfordbibliographies.com/view/document/obo-9780199766567/obo-9780199766567-0030.xml
+      \endverb
+      \verb{url}
+      \verb https://www.oxfordbibliographies.com/view/document/obo-9780199766567/obo-9780199766567-0030.xml
+      \endverb
+    \endentry
+  \enddatalist
+  \missing{mugglstone_guido_1983}
+\endrefsection
 \endinput
 
