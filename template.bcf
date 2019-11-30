@@ -3525,49 +3525,7 @@
     <bcf:datasource type="file" datatype="bibtex">ExportedItems.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">zenker_writing_2014</bcf:citekey>
-    <bcf:citekey order="2">titon_knowing_2008</bcf:citekey>
-    <bcf:citekey order="3">ingold_description_2013</bcf:citekey>
-    <bcf:citekey order="4">pink_situating_2012</bcf:citekey>
-    <bcf:citekey order="5">nakamura_making_2013</bcf:citekey>
-    <bcf:citekey order="6">slawek_study_1994</bcf:citekey>
-    <bcf:citekey order="7">haraway_situated_1988</bcf:citekey>
-    <bcf:citekey order="8">mugglestone_guido_1983</bcf:citekey>
-    <bcf:citekey order="9">mugglestone_guido_1983</bcf:citekey>
-    <bcf:citekey order="10">mugglestone_guido_1983</bcf:citekey>
-    <bcf:citekey order="11">mugglestone_guido_1983</bcf:citekey>
-    <bcf:citekey order="12">nettl_what_1964</bcf:citekey>
-    <bcf:citekey order="13">nettl_what_1964</bcf:citekey>
-    <bcf:citekey order="14">hood_challenge_1960</bcf:citekey>
-    <bcf:citekey order="15">mugglstone_guido_1983</bcf:citekey>
-    <bcf:citekey order="16">hood_challenge_1960</bcf:citekey>
-    <bcf:citekey order="17">nettl_what_1964</bcf:citekey>
-    <bcf:citekey order="18">merriam_anthropology_1964</bcf:citekey>
-    <bcf:citekey order="19">merriam_anthropology_1964</bcf:citekey>
-    <bcf:citekey order="20">merriam_anthropology_1964</bcf:citekey>
-    <bcf:citekey order="21">merriam_anthropology_1964</bcf:citekey>
-    <bcf:citekey order="22">zenker_writing_2014</bcf:citekey>
-    <bcf:citekey order="23">clifford_introduction:_1986</bcf:citekey>
-    <bcf:citekey order="24">slawek_study_1994</bcf:citekey>
-    <bcf:citekey order="25">slawek_study_1994</bcf:citekey>
-    <bcf:citekey order="26">zenker_writing_2014</bcf:citekey>
-    <bcf:citekey order="27">slawek_study_1994</bcf:citekey>
-    <bcf:citekey order="28">slawek_study_1994</bcf:citekey>
-    <bcf:citekey order="29">titon_knowing_2008</bcf:citekey>
-    <bcf:citekey order="30">titon_knowing_2008</bcf:citekey>
-    <bcf:citekey order="31">rice_toward_2008</bcf:citekey>
-    <bcf:citekey order="32">chapman_research-creation:_2012</bcf:citekey>
-    <bcf:citekey order="33">haraway_situated_1988</bcf:citekey>
-    <bcf:citekey order="34">nakamura_making_2013</bcf:citekey>
-    <bcf:citekey order="35">nakamura_making_2013</bcf:citekey>
-    <bcf:citekey order="36">slawek_study_1994</bcf:citekey>
-    <bcf:citekey order="37">rouch_camera_2009</bcf:citekey>
-    <bcf:citekey order="38">nakamura_making_2013</bcf:citekey>
-    <bcf:citekey order="39">nakamura_making_2013</bcf:citekey>
-    <bcf:citekey order="40">taylor_iconophobia:_1996</bcf:citekey>
-    <bcf:citekey order="41">taylor_iconophobia:_1996</bcf:citekey>
-    <bcf:citekey order="42">taylor_iconophobia:_1996</bcf:citekey>
-    <bcf:citekey order="43">geertz_thick_1973</bcf:citekey>
+    <bcf:citekey order="1">slawek_study_1994</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="cms">
